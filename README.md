@@ -1,4 +1,4 @@
-# test2
+# Mobile Computing Final Project
 
 A new Flutter project.
 
